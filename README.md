@@ -44,6 +44,8 @@ npm run dev
 - LAB 2는 useEffect를 활용하여 화면의 표시되는 상태만 바꾸었고 LAB 4는 useRef를 이용하여 내부에 값이 저장됨.
 
 ## Customizing: 수정 내용 및 파일명
+- ./src/App.css:34,106 : 폰트의 컬러를 변경
+- ./src/App.jsx:22 : 학생이름을 추가
 
 ## Deployment: 실제 접근 가능한 Vercel URL
 [Vercel URL](https://week12-starter-project-flax.vercel.app/)
